@@ -7,7 +7,7 @@
 }
 
 .Login form {
-  font-family: "calibri";
+
   margin: 0 auto;
   max-width: 300px;
   
@@ -17,9 +17,10 @@
   max-width: 25em;
   margin: 0;
   border-style: solid;
-  padding-bottom: 20px;
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-bottom: 30px;
+  padding-top:20px;
+  padding-left: 30px;
+  padding-right: 30px;
   border-width: 1px; 
   border-color: #ccc;
 } 
